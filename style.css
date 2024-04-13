@@ -1,0 +1,12 @@
+.dot {
+  stroke: #000;
+  opacity: 0.8;
+}
+
+.tooltip {
+  font: 12px;
+  background-color: lightblue;
+  border: unset;
+  border-radius: 8px;
+  pointer-events: none;
+}
